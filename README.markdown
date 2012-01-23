@@ -1,4 +1,4 @@
 ## VIM Plugins
 
-[Github]tpope/vim-rails
-[Github]vim-scripts/Specky
+[git://github.com/tpope/vim-rails.git]
+[git://github.com/vim-scripts/Specky.git]
